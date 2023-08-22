@@ -78,3 +78,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![Screenshot (109)](https://github.com/Ruchi689/1OX20CS107/assets/116889970/c29bd8c1-fd44-498c-acdd-dad6911e5fcd)
 ![Screenshot (110)](https://github.com/Ruchi689/1OX20CS107/assets/116889970/931c7690-ddd0-4fa3-aa6c-77f17f74909c)
 ![Screenshot (112)](https://github.com/Ruchi689/1OX20CS107/assets/116889970/05fab521-b98f-4b42-a0b3-43d0915add52)
+
+
+
+### OUTPUT of desktop view
+
+### All trains
+![Screenshot (113)](https://github.com/Ruchi689/1OX20CS107/assets/116889970/b2d2fc54-475f-4b90-ab75-4d9d7356fcf2)
+
+
+### Details.of one particular train
+![Screenshot (115)](https://github.com/Ruchi689/1OX20CS107/assets/116889970/2a0d4761-7f77-4a7f-ad34-e65f5af0a03d)
