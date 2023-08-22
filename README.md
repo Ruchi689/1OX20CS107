@@ -16,4 +16,4 @@
 
 
 ### Details.of one particular train
-![Screenshot (115)](https://github.com/Ruchi689/1OX20CS107/assets/116889970/2a0d4761-7f77-4a7f-ad34-e65f5af0a03d)
+![Screenshot (119)](https://github.com/Ruchi689/1OX20CS107/assets/116889970/6781236b-7556-4ddf-8c7b-f4d89d5d7876)
